@@ -1,2 +1,2 @@
-# Paradigmas-de-Linguagem-de-Programa-o
+# Paradigmas-de-Linguagem-de-Programacao
 Faculdade
